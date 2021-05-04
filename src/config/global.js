@@ -217,19 +217,19 @@ export default {
       },
       {
         nombre: 'Liliana Victoria Morales Gualdrón',
-        cargo: 'Diseñador instruccional',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Gestión Industrial',
         regional: 'Regional Distrito Capital',
       },
       {
         nombre: 'Dayra Maritza Paz Calderón',
-        cargo: 'Diseñador instruccional y evaluador Instruccional',
+        cargo: 'Diseñadora instruccional y evaluadora Instruccional',
         centro: 'Centro para la Industria y la Comunicación Gráfica',
         regional: 'Regional Distrito Capital',
       },
       {
         nombre: 'Julia Isabel Roberto',
-        cargo: 'Evaluador instruccional',
+        cargo: 'Evaluadora instruccional',
         centro: 'Centro para la comunicación de la Industria Gráfica',
         regional: 'Regional Distrito Capital',
       },
@@ -237,12 +237,6 @@ export default {
         nombre: 'José Gabriel Ortiz Abella',
         cargo: 'Revisión metodológica y pedagógica',
         centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'María Isabel Román Rueda',
-        cargo: 'Revisora de estilo',
-        centro: 'Centro para la Comunicación de la Industria Gráfica',
         regional: 'Regional Distrito Capital',
       },
     ],
@@ -278,6 +272,10 @@ export default {
           'Ricardo Alfonso González Vargas',
         ],
         cargo: 'Desarrollo Front-End',
+      },
+      {
+        nombre: 'María Isabel Román Rueda',
+        cargo: 'Revisora de contenidos',
       },
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
@@ -408,7 +406,7 @@ export default {
       texto:
         'Ministerio de educación Nacional. (2019). Búsqueda activa. Ministerio de educación Nacional.',
       tipo: 'Pdf',
-      link: '/downloads/Infografia_Ministerio_Edu.pdf',
+      descarga: 'downloads/Infografia_Ministerio_Edu.pdf',
     },
     {
       texto:
