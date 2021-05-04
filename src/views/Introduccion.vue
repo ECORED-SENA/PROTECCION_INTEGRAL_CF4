@@ -16,16 +16,14 @@
     .bloque-texto-a.p-4.p-md-5.mb-5.color_bloque_a
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          .h3.mb-0 Con base en lo anterior, en este componente formativo se abordan: 
+          img.img-a(src='@/assets/curso/introduccion/img_7.png')
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p Las temáticas relacionadas con el fenómeno de la deserción escolar, sus causas y efectos. También las estrategias de permanencia escolar como mecanismos de acción que promueven las buenas prácticas de prevención teniendo en cuenta el contexto sociocultural y las características de los estudiantes y las familias que hacen parte de la estrategia de alertas, ya que el objetivo fundamental es impulsar el acceso a las atenciones integrales en salud para niños y niñas en primera infancia e incentivar la asistencia y permanencia escolar en los niveles transición, básica primaria, básica secundaria y media de los niños, niñas y adolescentes en edad escolar.
+            p Con base en lo anterior, en este componente formativo se abordan las temáticas relacionadas con el fenómeno de la deserción escolar, sus causas y efectos. También las estrategias de permanencia escolar como mecanismos de acción que promueven las buenas prácticas de prevención teniendo en cuenta el contexto sociocultural y las características de los estudiantes y las familias que hacen parte de la estrategia de alertas, ya que el objetivo fundamental es impulsar el acceso a las atenciones integrales en salud para niños y niñas en primera infancia e incentivar la asistencia y permanencia escolar en los niveles transición, básica primaria, básica secundaria y media de los niños, niñas y adolescentes en edad escolar.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        p.mb-3 En este sentido, los lineamientos de política pública establecidos por el Ministerio de Educación Nacional (MEN), sobre los que se fundamenta este componente, establecen y promueven las estrategias para la vinculación de los niños, niñas y adolescentes al sistema educativo y, a su vez, indican las estrategias de permanencia escolar pertinentes y relacionadas con cada factor de riesgo que pueda presentarse según los factores individuales, contextuales e institucionales. 
-
-        p En el caso particular del programa Familias en Acción, este pertenece a la estrategia de permanencia de transferencias monetarias que busca mitigar el riesgo de deserción por causas de tipo económico. También se identifican otras estrategias como: transporte escolar, jornadas escolares complementarias y modelos flexibles, entre otros. 
+        p.mb-3 En este sentido, los lineamientos de política pública establecidos por el Ministerio de Educación Nacional (MEN), sobre los que se fundamenta este componente, establecen y promueven las estrategias para la vinculación de los niños, niñas y adolescentes al sistema educativo y, a su vez, indican las estrategias de permanencia escolar pertinentes y relacionadas con cada factor de riesgo que pueda presentarse según los factores individuales, contextuales e institucionales. En el caso particular del programa Familias en Acción, este pertenece a la estrategia de permanencia de transferencias monetarias que busca mitigar el riesgo de deserción por causas de tipo económico. También se identifican otras estrategias como: transporte escolar, jornadas escolares complementarias y modelos flexibles, entre otros. 
 
       .col-lg-4
         img.img-a(src='@/assets/curso/introduccion/img_6.png')

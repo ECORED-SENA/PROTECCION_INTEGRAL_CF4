@@ -11,10 +11,10 @@
     .bloque-texto-a.p-4.p-md-5.mb-5.color_bloque_a
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4
-          .h3.mb-0 Existen múltiples factores que generan: 
+          img.img-a(src='@/assets/curso/tema_2/img_6.png')
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p que el estudiante abandone la escuela. Cada caso es particular y las razones para su no continuidad en el sistema escolar también lo son; sin embargo, es importante identificar todos los riesgos posibles que afectan la permanencia escolar con el objetivo de generar las acciones de prevención pertinentes. 
+            p Existen múltiples factores que generan que el estudiante abandone la escuela. Cada caso es particular y las razones para su no continuidad en el sistema escolar también lo son; sin embargo, es importante identificar todos los riesgos posibles que afectan la permanencia escolar con el objetivo de generar las acciones de prevención pertinentes. 
 
     .row.align-items-center.mb-5
       .col-lg-4

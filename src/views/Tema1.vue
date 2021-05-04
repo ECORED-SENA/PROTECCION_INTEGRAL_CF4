@@ -11,17 +11,15 @@
     .bloque-texto-a.p-4.p-md-5.mb-5.color_bloque_a
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4
-          .h3.mb-0 La educación es considerada como la herramienta fundamental para generar equidad en cualquier nación. 
+          img.img-a(src='@/assets/curso/tema_1/img_1.png')
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            .row.align-items-center
-              .col-lg-8
-                p.mb-3 En el caso particular de Colombia, el acceso al sistema educativo es el mecanismo que permite cerrar las brechas existentes como consecuencia de los procesos sociales y económicos de cada región. 
+            p.mb-3 La educación es considerada como la herramienta fundamental para generar equidad en cualquier nación. En el caso particular de Colombia, el acceso al sistema educativo es el mecanismo que permite cerrar las brechas existentes como consecuencia de los procesos sociales y económicos de cada región. 
 
-                p Debido a lo anterior, la escuela se convierte en un espacio que propende por la formación integral de los niños, niñas y adolescentes y a su vez es un entorno protector y debe apoyar los procesos en pro de la garantía de los derechos. 
+            p Debido a lo anterior, la escuela se convierte en un espacio que propende por la formación integral de los niños, niñas y adolescentes y a su vez es un entorno protector y debe apoyar los procesos en pro de la garantía de los derechos. 
 
               .col-lg-4
-                img.img-a(src='@/assets/curso/tema_1/img_1.png')
+                
 
     p.mb-3 Durante el proceso de escolaridad se pueden establecer varias dificultades, pero, sin duda, la más relevante es el fenómeno de la deserción escolar, el cual se define como la inasistencia de los niños, niñas y adolescentes (NNA) al sistema educativo y puede estar asociado a factores individuales, familiares, institucionales, sociales, económicos y culturales.
 
@@ -68,7 +66,7 @@
       .col-lg-3
         .color_card.p-2
           p.text-center 
-            strong Tasa de deserción – 2017
+            strong Tasa de deserción nacional – 2017
       .col-lg-2 
         .color_card.p-2.color_card_1
           p.text-center 

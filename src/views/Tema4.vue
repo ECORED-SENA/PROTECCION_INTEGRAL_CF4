@@ -11,10 +11,11 @@
     .bloque-texto-a.p-4.p-md-5.mb-5.color_bloque_a
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4
-          .h3.mb-0 El Plan de Permanencia Escolar
+          img.img-a(src='@/assets/curso/tema_4/img_22.png')
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p es un instrumento orientador proopuesta por el Ministerio de Educación para que las secretarías de educación certificadas y los establecimientos educativos identifiquen las principales causas o factores de riesgo de deserción y definan las estrategias pertinentes y oportunas, así como los factores protectores orientados a disminuir la tasa de deserción escolar.
+            p El plan de permanencia escolar es un instrumento orientador proopuesta por el Ministerio de Educación para que las secretarías de educación certificadas y los establecimientos educativos identifiquen las principales causas o factores de riesgo de deserción y definan las estrategias pertinentes y oportunas, así como los factores protectores orientados a disminuir la tasa de deserción escolar.
+
 
     p.mb-3 Para la elaboración del Plan de Permanencia Escolar se deben tener en cuenta las características propias de cada institución y de cada región, de tal manera que las secretarías de educación formulen y verifiquen el impacto de las acciones realizadas para favorecer la permanencia de los niños, niñas y adolescentes en el sistema educativo. 
 
@@ -30,6 +31,7 @@
               img(src='@/assets/curso/tema_4/img_1.png' alt='AvatarTop')
               .tarjeta.tarjeta--blanca.p-4.color_card
                 p.text-center Sistema de Información para el Monitoreo, la prevención y el análisis de la deserción escolar - Simpade
+            
 
           img.img-a.mt-8(src='@/assets/curso/tema_4/img_5.png')
 

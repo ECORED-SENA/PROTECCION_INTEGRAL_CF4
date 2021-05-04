@@ -11,26 +11,24 @@
     .bloque-texto-a.p-4.p-md-5.mb-5.color_bloque_a
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4
-          .h3.mb-0 Es cierto que el fenómeno de la deserción escolar se plantea como una dificultad que:
+          img.img-a(src='@/assets/curso/tema_3/img_1.png')
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            .row.align-items-center
-              .col-lg-8
-                p.mb-3 en muchos casos, no tiene una única alternativa de solución, sino que se pueden establecer múltiples acciones para ser implementadas de manera independiente o de manera conjunta de acuerdo con los factores de riesgo asociados a cada caso. 
+            p.mb-3 Es cierto que el fenómeno de la deserción escolar se plantea como una dificultad que, en muchos casos, no tiene una única alternativa de solución, sino que se pueden establecer múltiples acciones para ser implementadas de manera independiente o de manera conjunta de acuerdo con los factores de riesgo asociados a cada caso. 
 
-                p En importante que todos los actores participantes en el proceso educativo de los niños, niñas y adolescentes reconozcan los objetivos y el alcance de las estrategias para la permanencia escolar, de tal modo que las alternativas de mitigación sean pertinentes y se encuentren vinculadas a las instituciones educativas. A continuación, se presentan las acciones más relevantes que se han implementado por parte del Ministerio de Educación Nacional para brindar un servicio educativo garante de los derechos de los niños, niñas y adolescentes.
+            p En importante que todos los actores participantes en el proceso educativo de los niños, niñas y adolescentes reconozcan los objetivos y el alcance de las estrategias para la permanencia escolar, de tal modo que las alternativas de mitigación sean pertinentes y se encuentren vinculadas a las instituciones educativas. A continuación, se presentan las acciones más relevantes que se han implementado por parte del Ministerio de Educación Nacional para brindar un servicio educativo garante de los derechos de los niños, niñas y adolescentes.
  
 
               .col-lg-4
-                img.img-a(src='@/assets/curso/tema_3/img_1.png')
+                
 
     .titulo-segundo
       #t_3_1.h4 3.1 Búsqueda activa y matrícula
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/1D-fOF0YGOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption VIDEO MINISTERIO DE EDUCACIÓN NACIONAL
 
     p.mb-5 En la siguiente infografía se abordan: 
 
@@ -358,18 +356,20 @@
           img(src='@/assets/curso/tema_3/img_20.png' alt='AvatarTop')
           .tarjeta.tarjeta--blanca.p-4.color_card
             p.text-center Emociones para la vida, con énfasis en la formación a docentes, estudiantes y familias en competencias socioemocionales y ciudadanas.
-
+        img.top-img.img-a(src='@/assets/curso/tema_3/img_24.png')
       .col-md-6.col-lg.mb-5
         .tarjeta-Avatar
           img(src='@/assets/curso/tema_3/img_21.png' alt='AvatarTop')
           .tarjeta.tarjeta--blanca.p-4.color_card
             p.text-center Sistema Nacional de Convivencia Escolar que promueve el desarrollo de protocolos y rutas de atención para atender situaciones que afectan el desarrollo integral y la convivencia de los niños, las niñas y los jóvenes. 
+        img.top-img.img-a(src='@/assets/curso/tema_3/img_24.png')
 
       .col-md-6.col-lg.mb-5
         .tarjeta-Avatar
           img.img-a(src='@/assets/curso/tema_3/img_22.png' alt='AvatarTop')
           .tarjeta.tarjeta--blanca.p-4.color_card
             p.text-center Pensamiento crítico e histórico, con la puesta en marcha de acciones pedagógicas frente a la enseñanza de la historia, la ética y la ciudadanía. 
+        img.top-img.img-a(src='@/assets/curso/tema_3/img_24.png')
 
     .row.justify-content-center.mb-3
       .col-lg-10.mb-5.mb-lg-0
