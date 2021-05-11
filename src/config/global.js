@@ -201,7 +201,7 @@ export default {
         centro: 'Ministerio de Educación',
       },
       {
-        nombre: 'Liliana Victoria Morales Gualdrón.',
+        nombre: 'Liliana Victoria Morales Gualdrón',
         cargo: 'Diseñadora Instruccional',
         centro: 'Centro para la Comunicación de la Industria Gráfica',
         regional: 'Regional Distrito Capital',
