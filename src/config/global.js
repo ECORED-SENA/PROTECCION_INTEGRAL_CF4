@@ -191,13 +191,13 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: ['Diana piedad Cruz Rojas', 'Floralba Herrera'],
+        nombre: ['Diana Piedad Cruz Rojas', 'Floralba Herrera'],
         cargo: 'Consultoras',
         centro: 'CORPROGRESO',
       },
       {
         nombre: ['Julián Fernando Gómez Urueña', 'Jacqueline Garavito Mariño'],
-        cargo: 'Profesional Ministerio de Educación',
+        cargo: 'Profesionales Ministerio de Educación',
         centro: 'Ministerio de Educación',
       },
       {
@@ -223,7 +223,7 @@ export default {
       {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del Equipo',
-        centro: 'Centro Industrial Del Diseño Y La Manufactura',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
@@ -234,12 +234,12 @@ export default {
       },
       {
         nombre: [
-          'Carlos Garavito',
+          'Carlos Eduardo Garavito Parada',
           'Gilberto Junior Rodríguez Rodríguez',
           'Jesús Antonio Vecino Valero',
           'Luis Gabriel Urueta Álvarez',
           'María Carolina Tamayo López',
-          'Wilson Andres Arenales Cáceres',
+          'Wilson Andrés Arenales Cáceres',
         ],
         cargo: 'Diseño Web y Producción Audiovisual',
         centro: 'Centro Industrial del Diseño y la Manufactura',
