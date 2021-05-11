@@ -30,7 +30,7 @@
         .list__item__icon
           img.img-a(src="@/assets/curso/tema_1/img_2.png").img-fluid
       .list__txt
-        .h5.m-top Diserción escolar
+        .h5.m-top Deserción escolar
 
     p.mb-3 Se da cuando las niñas, niños y adolescentes abandonan, interrumpen o se desvinculan de la escuela y no logran culminar sus estudios. 
 

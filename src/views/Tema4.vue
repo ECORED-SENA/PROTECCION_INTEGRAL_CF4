@@ -14,7 +14,7 @@
           img.img-a(src='@/assets/curso/tema_4/img_22.png')
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p El plan de permanencia escolar es un instrumento orientador proopuesta por el Ministerio de Educación para que las secretarías de educación certificadas y los establecimientos educativos identifiquen las principales causas o factores de riesgo de deserción y definan las estrategias pertinentes y oportunas, así como los factores protectores orientados a disminuir la tasa de deserción escolar.
+            p El plan de permanencia escolar es un instrumento orientador propuesta por el Ministerio de Educación para que las secretarías de educación certificadas y los establecimientos educativos identifiquen las principales causas o factores de riesgo de deserción y definan las estrategias pertinentes y oportunas, así como los factores protectores orientados a disminuir la tasa de deserción escolar.
 
 
     p.mb-3 Para la elaboración del Plan de Permanencia Escolar se deben tener en cuenta las características propias de cada institución y de cada región, de tal manera que las secretarías de educación formulen y verifiquen el impacto de las acciones realizadas para favorecer la permanencia de los niños, niñas y adolescentes en el sistema educativo. 
@@ -199,7 +199,23 @@
             .col-lg-4
               img.img-a(src="@/assets/curso/tema_4/img_21.png").img-fluid
             .col-lg-8
-              p Este proceso es fundamental para establecer el cumplimento de las  acciones formuladas y continuar con  las estrategias planteadas o generar otras que permitan garantizar la permanencia escolar. 
+              p Este proceso es fundamental para establecer el cumplimiento de las  acciones formuladas y continuar con  las estrategias planteadas o generar otras que permitan garantizar la permanencia escolar. 
+
+    .titulo-segundo
+      #t_4_1.h4 4.1  Actividad didáctica
+
+    .crd_complete
+      .row.justify-content-center.align-items-center
+        .col-auto.me-5
+          img(src="@/assets/componentes/img_actividad.svg", style="width:450px")
+        .col
+          .titulo-segundo.mb-4
+            .h4 Estrategias para la permanencia escolar
+          p.mb-4 Mediante la siguiente actividad se busca fortalecer los conocimientos adquiridos sobre las estrategias para la permanencia escolar. 
+
+          a.boton.boton--b(:href="obtenerLink('actividad/index.html')" target="_blank" type="application/pdf")
+            span Iniciar
+            i.fas.fa-file-download
 
 
 </template>

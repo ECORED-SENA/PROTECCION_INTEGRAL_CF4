@@ -49,7 +49,7 @@ export default {
         titulo:
           'La violencia en el país: principal obstáculo para que los niños vayan a la escuela',
         texto:
-          'Sólo en la región del Catatumbo, en lo que va corrido del año, 80 escuelas han tenido que detener las clases por el conflicto. En la Comuna 13 de Medellín, la situación de orden público ha aumentado la inasistencia escolar.',
+          'Solo en la región del Catatumbo, en lo que va corrido del año, 80 escuelas han tenido que detener las clases por el conflicto. En la Comuna 13 de Medellín, la situación de orden público ha aumentado la inasistencia escolar.',
         imagen: require('@/assets/curso/introduccion/img_2.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

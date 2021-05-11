@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Estrategias para la permanencia escolar',
     descripcionCurso:
-      'La deserción escolar contribuye sustancialmente al incremento de los niveles de pobreza en Colombia, para contrarrestar esta problemática, el gobierno ha desarrollado acciones concretas como: la Jornada Escolar Complementaria (JEC) y las transferencias monetarias condicionadas a la asistencia, entre otras, las cuáles buscan generar corresponsabilidad en la familia y sociedad como entornos protectores de derechos.',
+      'La deserción escolar contribuye sustancialmente al incremento de los niveles de pobreza en Colombia, para contrarrestar esta problemática, el gobierno ha desarrollado acciones concretas como: la Jornada Escolar Complementaria (JEC) y las transferencias monetarias condicionadas a la asistencia, entre otras, las cuales buscan generar corresponsabilidad en la familia y sociedad como entornos protectores de derechos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -134,15 +134,23 @@ export default {
         numero: '4',
         titulo: 'Ruta para la construcción del Plan de Permanencia Escolar',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'Actividad didáctica',
+            hash: 't_4_1',
+          },
+        ],
       },
     ],
     subMenu: [
-      {
+      /*{
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },
+      },*/
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -172,100 +180,78 @@ export default {
   },
   creditos: {
     liderEquipo: {
-      nombre: 'Maria Camila Garcia Santamaria',
-      cargo: 'Líder del equipo',
+      nombre: 'María Camila García Santamaría',
+      cargo: 'Líder del Equipo',
     },
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Asesor Metodológico y Pedagógico',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Ana Francisca Uribe Cárdenas',
-        cargo: 'Experta temática',
-        centro:
-          'Equipo de Verificación. Programa Familias en Acción Dirección de Transferencias Monetarias Condicionadas.',
-      },
-      {
-        nombre: 'Claudia Pureza Perdomo Gómez',
-        cargo: 'Experta temática',
-        centro:
-          'GIT Territorios y Poblaciones Dirección de Transferencias Monetarias Condicionadas',
-      },
-      {
-        nombre: 'Jairo Fernando Contreras Gutiérrez',
-        cargo: 'Experto temático',
-        centro: 'Oficina Asesora de Planeación',
-      },
-      {
-        nombre: 'Martha Cecilia Arcila Aponte',
-        cargo: 'Experta temática',
-        centro: 'DTMC Grupo de Pilotaje y Escalamiento',
-      },
-      {
-        nombre: 'Omayra Hoyos Rojas',
-        cargo: 'Experta temática',
-        centro:
-          'Equipo de Verificación. Programa Familias en Acción Dirección de Transferencias Monetarias Condicionadas',
-      },
-      {
-        nombre: 'William Mogollón Marín',
-        cargo: 'Experto temático',
+        nombre: ['Diana piedad Cruz Rojas', 'Floralba Herrera'],
+        cargo: 'Consultoras',
         centro: 'CORPROGRESO',
       },
       {
-        nombre: 'Liliana Victoria Morales Gualdrón',
-        cargo: 'Diseñadora instruccional',
-        centro: 'Centro de Gestión Industrial',
+        nombre: ['Julián Fernando Gómez Urueña', 'Jacqueline Garavito Mariño'],
+        cargo: 'Profesional Ministerio de Educación',
+        centro: 'Ministerio de Educación',
+      },
+      {
+        nombre: 'Liliana Victoria Morales Gualdrón.',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Centro para la Comunicación de la Industria Gráfica',
         regional: 'Regional Distrito Capital',
       },
       {
         nombre: 'Dayra Maritza Paz Calderón',
-        cargo: 'Diseñadora instruccional y evaluadora Instruccional',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julia Isabel Roberto',
-        cargo: 'Evaluadora instruccional',
-        centro: 'Centro para la comunicación de la Industria Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'José Gabriel Ortiz Abella',
-        cargo: 'Revisión metodológica y pedagógica',
+        cargo: 'Diseñadora y Evaluadora Instruccional ',
         centro: 'Centro de Diseño y Metrología',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'José Gabriel Ortíz Abella',
+        cargo: 'Corrector de Estilo',
+        centro: 'Centro para la Comunicación de la Industria Gráfica',
         regional: 'Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
+        cargo: 'Responsable del Equipo',
         centro: 'Centro Industrial Del Diseño Y La Manufactura',
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
+        nombre: 'Leyson Fabián Castaño Perez',
+        cargo: 'Soporte Organizacional',
         centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
       {
         nombre: [
-          'Jesus Antonio Vecino Valero',
-          'José Jaime Luis Tang Pinzón',
-          'Lady Adriana Ariza Luque',
-          'Luis Zenen Arévalo Mantilla',
-          'Nelson Iván Vera Briceño',
-          'Oleg Litvin',
+          'Carlos Garavito',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'Jesús Antonio Vecino Valero',
+          'Luis Gabriel Urueta Álvarez',
+          'María Carolina Tamayo López',
           'Wilson Andres Arenales Cáceres',
-          'Zuleidy Maria Ruiz Torres',
         ],
-        cargo: 'Diseño web y Producción Audiovisual',
+        cargo: 'Diseño Web y Producción Audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
+      {
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Diseño Web y Producción Audiovisual',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
+      },
+
       {
         nombre: [
           'Daniel Ricardo Mutis Gómez',
@@ -274,13 +260,8 @@ export default {
         cargo: 'Desarrollo Front-End',
       },
       {
-        nombre: [
-          'Jenny Paola Montillo',
-          'María Isabel Román Rueda',
-          'Rafael Augusto Mantilla',
-          'Veimar Celis Meléndez',
-        ],
-        cargo: 'Revisores de contenido',
+        nombre: 'Jenny Paola Montillo Gélvez',
+        cargo: 'Revisora de Contenidos',
       },
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
@@ -290,7 +271,7 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación de recursos',
+        cargo: 'Validación de Recursos',
         centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },

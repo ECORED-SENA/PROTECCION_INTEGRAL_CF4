@@ -54,7 +54,7 @@
             .list__item__icon
               img.img-a(src="@/assets/curso/tema_3/img_4.png").img-fluid
           .list__txt
-            p.m-top Identificación del territorio y perfil poblacional para la generar atención diferencial. 
+            p.m-top Identificación del territorio y perfil poblacional para generar la atención diferencial. 
         hr.bd-hr
         .list.mb-3
           .list__item
@@ -237,9 +237,9 @@
     .row.justify-content-center.mb-3
       .col-lg-10.mb-5.mb-lg-0
         .bloque-texto-b.p-4.mb-3
-          .bloque-texto-b__texto.h3.mb-0 por el cual se establecen las condiciones de aplicación de la gratuidad educativa para los estudiantes de educación preescolar, primaria, secundaria y media de las instituciones educativas estatales y se dictan otras disposiciones para su implementación
+          .bloque-texto-b__texto.h3.mb-0 Por el cual se establecen las condiciones de aplicación de la gratuidad educativa para los estudiantes de educación preescolar, primaria, secundaria y media de las instituciones educativas estatales y se dictan otras disposiciones para su implementación
 
-    p.mb-5 que en su parte considerativa establece: 
+    p.mb-5 Que en su parte considerativa establece: 
 
     .cajon--azul.p-4.mb-5
       p Que los cobros de derechos académicos y servicios complementarios han sido una barrera para el acceso y la permanencia escolar en la educación preescolar, básica y media, y ante ello el Estado debe generar políticas públicas orientadas a mejorar la accesibilidad de la población en edad escolar a todos los niveles educativos, a fin de que se logre garantizar la realización del derecho a la educación (inciso 10).
