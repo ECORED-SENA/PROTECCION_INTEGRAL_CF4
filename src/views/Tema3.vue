@@ -257,7 +257,7 @@
       .col-lg-4
         img.img-a(src="@/assets/curso/tema_3/img_18.png")
       .col-lg-8
-        p La permanencia de modelos educativos flexibles hace parte de las estrategias que promueve el Ministerio de Educación y que lideran las secretarías de educación certificadas, cuyo principal objetivo es el de restituir y garantizar el derecho fundamental de la educación a la población que se encuentra en situación de extra edad, desplazamiento, en condiciones de vulnerabilidad o en situaciones diversas o que les impide acceder a la educación formal.
+        p Los Modelos Educativos Flexibles hacen parte de las estrategias que promueve el Ministerio de Educación para permanencia de modelos educativos flexibles hace parte de las estrategias que promueve el Ministerio de Educación y que lideran las secretarías de educación certificadas, cuyo principal objetivo es el de restituir y garantizar el derecho fundamental de la educación a la población que se encuentra en situación de extra edad, desplazamiento, en condiciones de vulnerabilidad o en situaciones diversas o que les impide acceder a la educación formal.
 
     p.mb-3 Actualmente, el Ministerio de Educación Nacional y la Subdirección de Referentes y Evaluación de la Calidad Educativa, han realizado la actualización al material físico de apoyo a la implementación de cada modelo (guías, cartillas, módulos) tanto para estudiantes como para docentes.
 
