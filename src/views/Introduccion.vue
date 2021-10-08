@@ -41,22 +41,22 @@ export default {
         titulo:
           'La mitad de los estudiantes de Latinoamérica no acaba la educación secundaria',
         texto:
-          'Emiliana Vegas, jefa de Educación del BID, sostiene que uno de cada dos jóvenes está abandonando las aulas “antes de culminar doce años de educación”.',
+          'Emiliana Vegas, jefa de Educación del BID, sostiene que uno de cada dos jóvenes está abandonando las aulas “antes de culminar doce años de educación”. <br><br>Tomado de: https://www.elespectador.com/noticias/educacion/la-mitad-de-los-estudiantes-de-latinoamerica-no-acaba-la-educacion-secundaria/ ',
         imagen: require('@/assets/curso/introduccion/img_1.png'),
-        // leyendaImagen: 'Leyenda de la imagen',
+        //leyendaImagen:'',
       },
       {
         titulo:
           'La violencia en el país: principal obstáculo para que los niños vayan a la escuela',
         texto:
-          'Solo en la región del Catatumbo, en lo que va corrido del año, 80 escuelas han tenido que detener las clases por el conflicto. En la Comuna 13 de Medellín, la situación de orden público ha aumentado la inasistencia escolar.',
+          'Solo en la región del Catatumbo, en lo que va corrido del año, 80 escuelas han tenido que detener las clases por el conflicto. En la Comuna 13 de Medellín, la situación de orden público ha aumentado la inasistencia escolar.<br><br>Tomado de: https://www.elespectador.com/noticias/nacional/la-violencia-en-el-pais-principal-obstaculo-para-que-los-ninos-vayan-a-la-escuela/',
         imagen: require('@/assets/curso/introduccion/img_2.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Deserción escolar, un tema social y económico',
         texto:
-          'A pesar de que la desescolarización en colegios públicos ha ido en descenso, sigue siendo tres veces mayor que en instituciones privadas. Expertos creen que se debe a la falta de una educación más pertinente a las realidades sociales.',
+          'A pesar de que la desescolarización en colegios públicos ha ido en descenso, sigue siendo tres veces mayor que en instituciones privadas. Expertos creen que se debe a la falta de una educación más pertinente a las realidades sociales. <br><br>Tomado de: https://www.elespectador.com/noticias/bogota/desercion-escolar-un-tema-social-y-economico/',
         imagen: require('@/assets/curso/introduccion/img_3.png'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
@@ -64,7 +64,7 @@ export default {
         titulo:
           'Advierten que en Jamundí cultivadores de coca reclutan a escolares',
         texto:
-          'El Canal Caracol informó que el Ministerio de Trabajo reseñó que al menos 47 jóvenes se han marchado a trabajar en los cultivos ilícitos.',
+          'El Canal Caracol informó que el Ministerio de Trabajo reseñó que al menos 47 jóvenes se han marchado a trabajar en los cultivos ilícitos. <br><br>Tomado de: https://www.elespectador.com/noticias/nacional/advierten-que-en-jamundi-cultivadores-de-coca-reclutan-a-escolares/',
         imagen: require('@/assets/curso/introduccion/img_4.png'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
@@ -72,7 +72,7 @@ export default {
         titulo:
           '“Mi matrícula mi derecho”, la nueva campaña de Mineducación contra la deserción escolar',
         texto:
-          'Estimaciones de la Contraloría afirman que el 7 % de los estudiantes que se inscriben al comienzo de año se retiran a lo largo del periodo escolar. Se espera que con esta iniciativa la deserción pase de 3,08 % en 2017 a 2,7 en los próximos tres años.',
+          'Estimaciones de la Contraloría afirman que el 7 % de los estudiantes que se inscriben al comienzo de año se retiran a lo largo del periodo escolar. Se espera que con esta iniciativa la deserción pase de 3,08 % en 2017 a 2,7 en los próximos tres años. <br><br>Tomado de: https://www.elespectador.com/noticias/educacion/mi-matricula-mi-derecho-la-nueva-campana-de-mineducacion-contra-la-desercion-escolar/',
         imagen: require('@/assets/curso/introduccion/img_5.png'),
         //leyendaImagen: 'Leyenda de la imagen',
       },
