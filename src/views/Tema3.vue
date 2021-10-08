@@ -96,7 +96,7 @@
             .list__item__icon
               img.img-a(src="@/assets/curso/tema_3/img_4.png").img-fluid
           .list__txt
-            p.m-top Consolidación de un observatorio para hacer seguimiento a los planes de búsqueda activa.  
+            p.m-top Consolidación del observatorio de trayectorias educativas para fortalecer las estrategia de permanencia escolar y búsqueda activa.  
         
       .col-lg-4
         img.img-a(src="@/assets/curso/tema_3/img_3.png")
@@ -104,11 +104,29 @@
     .titulo-segundo
       #t_3_2.h4 3.2 Transporte escolar
     
-    .row.align-items-center.mb-5.mt-5
+    .row.align-items-center.mb-3.mt-5
       .col-lg-4
         img.img-a(src="@/assets/curso/tema_3/img_5.png")
       .col-lg-8
         p El transporte escolar es una estrategia que contribuye a garantizar el acceso y la permanencia de los niños, niñas, adolescentes y jóvenes en el sistema educativo, eliminando las barreras de distancia entre la escuela y el hogar y es implementada por cada una de las Entidades Territoriales Certificadas (ETC), de acuerdo con el contexto geográfico particular (MEN, 2019). 
+
+    .row.align-items-center.mb-3
+      .col-lg-8
+        p.mb-4 El Transporte Escolar es una estrategia que implementan las Entidades Territoriales Certificadas (ETC), que contribuye a garantizar el acceso y la permanencia de los niños, niñas, adolescentes y jóvenes en el sistema educativo, eliminando las barreras de distancia entre la escuela y el hogar.
+        p.mb-4 La implementación de esta estrategia está sujeta a la necesidad identificada por cada entidad territorial, atendiendo la cantidad de estudiantes que requieren ser movilizados, la disponibilidad de medios de transporte seguros en la región, las vías de acceso a los establecimientos educativos, atendiendo los criterios establecidos en la normatividad dada desde el Ministerio de Transporte y los recursos disponibles para su contratación.
+      .col-lg-4
+        img.img-a(src="@/assets/curso/tema_3/img_5A.png")
+
+    .row.align-items-center.mb-5
+      .col-lg-4
+        img.img-a(src="@/assets/curso/tema_3/img_5B.png")
+      .col-lg-8
+        p.mb-4 Por otra parte, fue expedido el Decreto 746 suscrito el 28 de mayo del 2020 "Por el cual se sustituye el Título 8 de la Parte 2 del Libro 2 del Decreto 1079 de 2015 - Decreto Único Reglamentario del Sector Transporte", mediante el cual se pretende solucionar la problemática de la falta de oferta de servicios de transporte acordes a las necesidades específicas de la población.
+        p.mb-5 Es así como el Decreto 746 del 2020, genera excepciones en la normatividad en el transporte no convencional en las regiones con acceso restringido, al ubicarse en zona rural o por sus condiciones topográficas, étnicas o económicas, así como, la falta de algunos servicios y trámites asociados al tránsito en el país, constituyendo los sistemas de transporte como un servicio público esencial que supla las necesidades de los usuarios y contribuya al goce efectivo de los derechos ciudadanos, conformando zonas diferenciales para el tránsito y/o transporte, fortaleciendo así el sistema de transporte escolar como un servicio esencial que promueva el acceso de los niños, niñas, adolescentes y jóvenes contribuyendo a la permanencia dentro del sistema educativo, éstas acciones se verán reflejadas particularmente en nuestras poblaciones campesinas.
+      
+    
+    
+
 
     .titulo-segundo
       #t_3_3.h4 3.3. Programa de Alimentación Escolar (PAE)

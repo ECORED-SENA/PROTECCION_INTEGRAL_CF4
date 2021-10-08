@@ -20,7 +20,7 @@
       .col-lg-4
         img.img-a(src='@/assets/curso/tema_2/img_1.png')
       .col-lg-8
-        p De acuerdo con los resultados obtenidos en la Encuesta Nacional de Deserción (ENDE) aplicada en el año 2010 y con la información suministrada por algunas entidades territoriales, se han establecido algunos factores de riesgo que se reúnen en tres grandes grupos: causas personales, causas contextuales y causas institucionales. A continuación, se estudiarán cada una de ellas.
+        p De acuerdo con los resultados obtenidos en la Encuesta Nacional de Deserción (ENDE) aplicada en el año 2010 y con la información suministrada por algunas entidades territoriales, se han establecido algunos factores de riesgo que se reúnen en tres grandes grupos: causas personales, causas contextuales y causas institucionales. A continuación, se estudiarán cada una de ellas.        
 
     .titulo-segundo
       #t_2_1.h4 2.1 Causas personales

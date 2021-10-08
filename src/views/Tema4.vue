@@ -177,13 +177,14 @@
             .col-lg-8
               p Es necesario que todos los actores involucrados en el proceso de protección integral, y en acciones que promueven la restitución y la garantía de los derechos de los niños, niñas y adolescentes, tengan el conocimiento y la apropiación de las estrategias de permanencia como parte integral de la política educativa y en los procesos de planeación, organización y administración para el mejoramiento y la calidad de la prestación del servicio educativo.  
 
-      .row.mb-3(titulo="Definición del plan de acción por estrategia propuesta") 
+      .row.mb-3(titulo="Definición del plan de permanencia por estrategia propuesta") 
         .cajon--azul.p-4
           .row.align-items-center
             .col-lg-4
               img.img-a(src="@/assets/curso/tema_4/img_19.png").img-fluid
             .col-lg-8
-              p Para definir el plan de acción se deben incluir  la estrategia propuesta, las  metas,  los recursos y  la población a beneficiar.
+              p.mb-4 Para definir el plan de permanencia se deben incluir  la estrategia propuesta, las  metas,  los recursos y  la población a beneficiar.
+              P Para la construcción de los planes de permanencia se deben definir las acciones a desarrollar abordando cada una de las estartegias de permanencia definidas por cada Entidad Territorial Certificada y tener en cuenta 5 componentes principales por desarrollar Prevención y Erradicación Del Trabajo Infantil, Atención A Niños, Niñas y Adolescentes En Condición De Discapacidad, Atención A Población Víctima, Fortalecimiento De La Educación Media y Estrategias De Búsqueda Activa.
 
       .row.mb-3(titulo="Seguimiento a los avances logrados en el Plan de Permanencia") 
         .cajon--azul.p-4
@@ -191,7 +192,7 @@
             .col-lg-4
               img.img-a(src="@/assets/curso/tema_4/img_20.png").img-fluid
             .col-lg-8
-              p Una vez se haya diseñado el plan de acción de las estrategias propuestas se debe garantizar la implementación y el seguimiento de las acciones, para ello se debe establecer las fechas de inicio de implementación y las de seguimiento. 
+              p Una vez se haya diseñado el plan de acción de las estrategias propuestas se debe garantizar la implementación y el seguimiento de las acciones, para ello se deben establecer las fechas de inicio de implementación de las actividades, fecha de cumplimiento de la meta y fecha de seguimiento.
 
       .row.mb-3(titulo="Evaluación de los resultados obtenidos con la implementación de las estrategias propuestas en el Plan de Permanencia") 
         .cajon--azul.p-4
