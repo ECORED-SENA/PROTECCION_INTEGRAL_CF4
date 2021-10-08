@@ -40,7 +40,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              .h5.mb-0 Aspectos favorables relacionados con la asistencia escolar, y acciones para que los menores vuelvan y se queden en el colegio, de acuerdo con lo establecido por el Ministerio de Educación Nacional (2019).
+              p.mb-0 Aspectos favorables relacionados con la asistencia escolar, y acciones para que los menores vuelvan y se queden en el colegio, de acuerdo con lo establecido por el Ministerio de Educación Nacional (2019 - 2020).
             .col-sm-auto
               a.boton.boton--b.color_llamado(:href="obtenerLink('/downloads/Infografia_Ministerio_Edu.pdf')" target="_blank")
                 span Descargar
